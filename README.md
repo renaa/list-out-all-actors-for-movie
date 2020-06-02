@@ -30,7 +30,15 @@ unoficial imdb api from hmerritt:
 
 
 TMDb:
-
+https://developers.themoviedb.org/3/movies/get-movie-credits
 
 OMDb:
+http://www.omdbapi.com/
+
+https://medium.com/@mcasciato/no-imdb-api-check-out-these-options-75917d0fe923
+
+
+...
+btw: 
+https://rapidapi.com/crunchbase-team1-crunchbase/api/crunchbase
 
